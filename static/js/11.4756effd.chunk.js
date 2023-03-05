@@ -1,0 +1,2 @@
+(this["webpackJsonpinventory-sunnyfront"]=this["webpackJsonpinventory-sunnyfront"]||[]).push([[11],{656:function(n,e,s){"use strict";s.r(e);s(2);var t=s.p+"static/media/404.2d47255f.png",c=s(1);e.default=function(){return Object(c.jsx)("div",{className:"center-screen",children:Object(c.jsx)("img",{className:"animated fadeIn",src:t})})}}}]);
+//# sourceMappingURL=11.4756effd.chunk.js.map
